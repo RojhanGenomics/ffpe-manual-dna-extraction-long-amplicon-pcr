@@ -1,0 +1,14 @@
+{
+  "title": "Manual FFPE DNA Extraction for Long-Amplicon PCR",
+  "description": "Retrospective documentation of a resource-accessible manual FFPE DNA extraction optimization using mineral-oil deparaffinization and a hot-start PCR system to improve recovery of longer PCR-amplicon targets in a subset of samples.",
+  "creators": [
+    {
+      "name": "Rojhannezhad, Mahdieh",
+      "orcid": "0009-0009-2427-718X"
+    }
+  ],
+  "keywords": ["FFPE", "DNA extraction", "mineral oil", "PCR", "long amplicon PCR", "protocol optimization"],
+  "license": "MIT",
+  "upload_type": "dataset",
+  "version": "1.0.0"
+}
