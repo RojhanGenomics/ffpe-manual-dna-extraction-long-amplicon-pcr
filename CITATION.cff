@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: "Manual FFPE DNA Extraction for Long-Amplicon PCR"
+authors:
+  - family-names: Rojhannezhad
+    given-names: Mahdieh
+    orcid: "https://orcid.org/0009-0009-2427-718X"
+version: "1.0.0"
+date-released: "2026-08-24"
+repository-code: "https://github.com/RojhanGenomics/ffpe-manual-dna-extraction-long-amplicon-pcr"
+license: "MIT"
+abstract: "Retrospective documentation of a resource-accessible manual FFPE DNA extraction optimization using mineral-oil deparaffinization and a hot-start PCR system to improve recovery of longer PCR-amplicon targets in a subset of samples."
+keywords:
+  - FFPE
+  - DNA extraction
+  - mineral oil
+  - PCR
+  - long amplicon PCR
+  - protocol optimization
