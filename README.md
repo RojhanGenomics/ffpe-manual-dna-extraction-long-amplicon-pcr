@@ -1,6 +1,16 @@
 # Manual FFPE DNA Extraction for Long-Amplicon PCR
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22091030.svg)](https://doi.org/10.5281/zenodo.22091030)
+
 A retrospective research project documenting optimization of a manual DNA-extraction workflow for FFPE tissue with the goal of improving recovery of longer PCR amplifiable DNA fragments under resource-constrained laboratory conditions.
+
+## Citation
+
+If you use this project, please cite the archived Zenodo record:
+
+**Rojhannezhad, Mahdieh. (2026). _Manual FFPE DNA Extraction for Long-Amplicon PCR_ (v1.0.1). Zenodo. https://doi.org/10.5281/zenodo.22091030**
+
+The repository also includes `CITATION.cff` for GitHub's citation support.
 
 ## Core optimization
 The researcher incorporated an initial mineral-oil deparaffinization step before manual TRIzol-based extraction, followed by the established manual extraction workflow. Tissue disruption was performed mechanically on a clean chilled slide/foil with a scalpel rather than liquid nitrogen grinding.
