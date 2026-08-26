@@ -14,8 +14,8 @@ See the complete project-linked [researcher profile](RESEARCHER_PROFILE.md).
 
 - ORCID: https://orcid.org/0009-0009-2427-718X
 - GitHub: https://github.com/RojhanGenomics
-- Website: https://rojhangalaxy.ir
 - LinkedIn: https://linkedin.com/in/mahdieh-rojhannezhad
+- ResearchGate: https://www.researchgate.net/profile/Mahdieh-Rojhannezhad
 
 ## Citation
 
@@ -46,4 +46,5 @@ The reported outcome was improved recovery of longer PCR amplicons, including am
 ## Author
 **Mahdieh Rojhannezhad, Ph.D.**  
 ORCID: https://orcid.org/0009-0009-2427-718X  
-GitHub: https://github.com/RojhanGenomics
+GitHub: https://github.com/RojhanGenomics  
+ResearchGate: https://www.researchgate.net/profile/Mahdieh-Rojhannezhad
